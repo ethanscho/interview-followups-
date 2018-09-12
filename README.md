@@ -1,3 +1,3 @@
 # interview-followups-
 
-Reviews for my stupid answers. 
+Followups for my stupid answers. 
